@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola! Soy Felipe Núñez
 
-<!--
-**felipe-nunez/felipe-nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas – UTN  
+Interesado en desarrollo web y backend  
+Rosario, Argentina  
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Python
+- SQL
+- React
+- Node.js
+- MySQL
+
+## Actualmente
+
+Desarrollando proyectos para mejorar mis habilidades en programación y sistemas.
+
+## Contacto
+
+feli.nunezz31@gmail.com
+3416830231
